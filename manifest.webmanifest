@@ -3,19 +3,19 @@
     "name": "4Mation",
     "icons": [
         {
-            "src": "logo192.png",
+            "src": "/4mation/logo192.png",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "maskable"
         },
         {
-            "src": "logo512.png",
+            "src": "/4mation/logo512.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any"
         }
     ],
-    "start_url": "./index.html",
+    "start_url": "/4mation/",
     "prefer_related_applications": true,
     "id": "./index.html",
     "background_color": "#312F2F",

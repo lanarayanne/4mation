@@ -1,19 +1,19 @@
 const CACHE_NAME = 'v1';
 const STATIC_CACHE_URLS = [
-    './',
-    './app.js',
-    './scripts/4mation.js',
-    './scripts/Cell.js',
-    './scripts/CellState.js',
-    './scripts/Interface.js',
-    './scripts/Player.js',
-    './scripts/Winner.js',
-    './manifest.webmanifest',
-    './logo192.png',
-    './logo512.png',
-    './logo.png',
-    './styles.css',
-    './index.html'
+    './4mation/',
+    './4mation/app.js',
+    './4mation/scripts/4mation.js',
+    './4mation/scripts/Cell.js',
+    './4mation/scripts/CellState.js',
+    './4mation/scripts/Interface.js',
+    './4mation/scripts/Player.js',
+    './4mation/scripts/Winner.js',
+    './4mation/manifest.webmanifest',
+    './4mation/logo192.png',
+    './4mation/logo512.png',
+    './4mation/logo.png',
+    './4mation/styles.css',
+    './4mation/index.html'
 ];
 
 self.addEventListener('install', function (event) {
