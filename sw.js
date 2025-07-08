@@ -1,15 +1,17 @@
 const CACHE_NAME = 'v1';
 const STATIC_CACHE_URLS = [
     './',
-    './scripts/app.js',
-    './scripts/amation.js',
+    './app.js',
+    './scripts/4mation.js',
     './scripts/Cell.js',
     './scripts/CellState.js',
     './scripts/Interface.js',
     './scripts/Player.js',
     './scripts/Winner.js',
     './manifest.webmanifest',
-    './logo.jpg',
+    './logo192.png',
+    './logo512.png',
+    './logo.png',
     './styles.css',
     './index.html'
 ];

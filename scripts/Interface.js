@@ -1,7 +1,7 @@
 import Player from "./Player.js";
 import Cell from "./Cell.js";
 import Winner from "./Winner.js";
-import Amation from "./amation.js"
+import Amation from "./4mation.js"
 
 class Interface {
     constructor() {
