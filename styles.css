@@ -34,8 +34,8 @@ h1 {
 
 #description {
     color: #f6e8ea;
-    /* max-width: 428px; */
-    margin: 5rem;
+    max-width: 428px;
+    /* margin: 5rem; */
     text-align: justify;
     justify-self: center;
 }
